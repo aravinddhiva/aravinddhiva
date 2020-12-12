@@ -58,6 +58,5 @@ module.exports = {
       },
     },
   ].filter(Boolean),
-  pathPrefix: "aravinddhiva"
-  
+  pathPrefix: "/aravinddhiva"
 }
