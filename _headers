@@ -1,0 +1,35 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-fca097f8f8410004bda7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-94b63ef6f8be6934feb2.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-06f646d936b841f99ebd.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-9f945c70dd6930dbfbc4.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/aravinddhiva/
+  Link: </aravinddhiva/webpack-runtime-94b63ef6f8be6934feb2.js>; rel=preload; as=script
+  Link: </aravinddhiva/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </aravinddhiva/app-9f945c70dd6930dbfbc4.js>; rel=preload; as=script
+  Link: </aravinddhiva/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-fca097f8f8410004bda7.js>; rel=preload; as=script
+  Link: </aravinddhiva/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </aravinddhiva/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/aravinddhiva/offline-plugin-app-shell-fallback/
+  Link: </aravinddhiva/webpack-runtime-94b63ef6f8be6934feb2.js>; rel=preload; as=script
+  Link: </aravinddhiva/framework-06f646d936b841f99ebd.js>; rel=preload; as=script
+  Link: </aravinddhiva/app-9f945c70dd6930dbfbc4.js>; rel=preload; as=script
+  Link: </aravinddhiva/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
+  Link: </aravinddhiva/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </aravinddhiva/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
